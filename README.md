@@ -1,16 +1,13 @@
-# boilerplate_flutter
+# efood_app
 
-A flutter boilerplate project.
+A flutter ecommerce app with Admin system and also database as firebase.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+![Screenshot 2023-09-25 113322](https://github.com/KazunguDev/efood_app/assets/88532016/40659301-77ec-4031-af57-abafbf5167ae)
 
-A few resources to get you started if this is your first Flutter project:
+![Screenshot 2023-09-25 113300](https://github.com/KazunguDev/efood_app/assets/88532016/b8660fac-20e1-4902-a8d7-5812db29f63c)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Screenshot 2023-09-25 113418](https://github.com/KazunguDev/efood_app/assets/88532016/c526be9d-589e-40ca-9be4-a5913e8d474a)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot 2023-09-25 114647](https://github.com/KazunguDev/efood_app/assets/88532016/ab596e1c-e176-4c12-b791-8d56b69a3891)
